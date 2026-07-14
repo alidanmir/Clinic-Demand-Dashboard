@@ -1,6 +1,9 @@
 # Clinic-Demand-Dashboard
 This project is a Streamlit dashboard for analyzing physiotherapy clinic appointment demand using appointment exports.
 
+## Live Demo
+Try the dashboard here: [Clinic Demand Dashboard](https://clinic-demand-dashboard.streamlit.app/)
+
 The dashboard includes:
 - Monthly appointment demand
 - Year-over-year appointment growth
