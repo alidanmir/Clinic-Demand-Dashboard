@@ -12,4 +12,4 @@ The dashboard includes:
 - Average historical demand by day
 - Basic machine learning forecast for daily appointment volume
 
-A dummy sample dataset is included in the sample_data folder so the dashboard can be tested without real patient information.
+A dummy sample dataset is included in the clinic_sample_data folder so the dashboard can be tested without real patient information.
